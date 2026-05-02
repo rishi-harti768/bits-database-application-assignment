@@ -8,7 +8,7 @@ The relationship established between the two entities is **One-To-Many** (One Au
 
 ### Github Repository
 
-[Github URL Placeholder]
+[GitHub](https://github.com/rishi-harti768/bits-database-application-assignment)
 
 ## Entity Relationship Design
 
